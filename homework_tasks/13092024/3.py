@@ -3,7 +3,13 @@ import openpyxl
 df1 = openpyxl.load_workbook("3.xlsx")
 wb = df1["Движение товаров"]
 
-needed_markets = ['M1', "M5", "M6", "M10", "M15"]
+needed_markets = []
+
+wb1 = df1["Магазин"]
+for i in range(2, wb1.max_row + 1):
+    block = wb1[f"B{i}"].value
+    if block == "Октябрьский":
+        needed_markets.append(wb1[f"A{i}"].value)
 
 in_stock = 0
 
@@ -20,6 +26,5 @@ for i in range(2, wb.max_row + 1):
         elif operation_type == "Продажа" and package_count is not None:
             in_stock -= package_count
             #print(f"sent {package_count} on row {i}")
-        print(in_stock)
 
 print(in_stock)
