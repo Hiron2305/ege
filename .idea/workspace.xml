@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f76c6b-71a4-4655-a291-a24e9391285a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/107_9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_tasks/13092024/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_tasks/13092024/3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +58,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.6_1.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.9.executor": "Run",
+    "Python.9_1.executor": "Run",
     "Python.Unnamed (1).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -63,8 +82,8 @@
       <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\13092024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.17">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +140,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/9_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,15 +217,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.default" />
-      <item itemvalue="Python.4" />
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.3" />
+      <item itemvalue="Python.12" />
+      <item itemvalue="Python.14" />
+      <item itemvalue="Python.16" />
+      <item itemvalue="Python.17" />
+      <item itemvalue="Python.9_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.14" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.9_1" />
       </list>
     </recent_temporary>
   </component>
