@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f76c6b-71a4-4655-a291-a24e9391285a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/26_demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/27-A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/27-B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/ 16401086/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/16413177/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/16413177/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/16455414/03 (1).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/16455414/03 (1)_01.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/16455414/2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,47 +48,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.11.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.14.executor": "Run",
-    "Python.16.executor": "Run",
-    "Python.17.executor": "Run",
-    "Python.18.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.22.executor": "Run",
-    "Python.22_1.executor": "Run",
-    "Python.23.executor": "Run",
-    "Python.24.executor": "Run",
-    "Python.25.executor": "Run",
-    "Python.26.executor": "Run",
-    "Python.27.executor": "Run",
-    "Python.3.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.6_1.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.8.executor": "Run",
-    "Python.9.executor": "Run",
-    "Python.9_1.executor": "Run",
-    "Python.Unnamed (1).executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mrHir/PycharmProjects/ege"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed (1).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrHir/PycharmProjects/ege&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\16455414" />
       <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\ 16401086" />
       <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\16092024" />
       <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\13092024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2">
+  <component name="RunManager" selected="Python.2 (1)">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/16455414" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/16455414/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
@@ -118,28 +127,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/16413177/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ege" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/ 16401086" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/ 16401086/22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,19 +225,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.default" />
-      <item itemvalue="Python.2" />
+      <item itemvalue="Python.2 (1)" />
+      <item itemvalue="Python.23" />
       <item itemvalue="Python.26" />
       <item itemvalue="Python.27" />
-      <item itemvalue="Python.23" />
-      <item itemvalue="Python.22" />
+      <item itemvalue="Python.2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2 (1)" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.27" />
         <item itemvalue="Python.26" />
         <item itemvalue="Python.23" />
-        <item itemvalue="Python.22" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727044568633</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1727132110935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727132110935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
