@@ -1,0 +1,372 @@
+Index: lesson_notes/lesson_160925/3.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/3.py b/lesson_notes/lesson_160925/3.py
+new file mode 100644
+--- /dev/null	(date 1726487298168)
++++ b/lesson_notes/lesson_160925/3.py	(date 1726487298168)
+@@ -0,0 +1,14 @@
++a = "0123456789ABCDEFGH"
++
++g = "AB9CH"
++
++res = 0
++
++counter = 0
++
++for i in g[::-1]:
++    value = a.index(i)
++    res += value * (20 ** counter)
++    counter += 1
++
++print(res)
+\ No newline at end of file
+Index: lesson_notes/lesson_160925/4.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/4.py b/lesson_notes/lesson_160925/4.py
+new file mode 100644
+--- /dev/null	(date 1726487681584)
++++ b/lesson_notes/lesson_160925/4.py	(date 1726487681584)
+@@ -0,0 +1,6 @@
++a = [2,3,4,5,6,1,2,3]
++
++for i in range(len(a)):
++    if a[i] % 2 == 0:
++        a[i] = 0
++print(a)
+Index: lesson_notes/lesson_160925/readline.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/readline.py b/lesson_notes/lesson_160925/readline.py
+new file mode 100644
+--- /dev/null	(date 1726488198739)
++++ b/lesson_notes/lesson_160925/readline.py	(date 1726488198739)
+@@ -0,0 +1,6 @@
++with open("file.txt") as f:
++
++    for s in f:
++        print(s)
++#чтение файла по строчкам
++
+Index: lesson_notes/lesson_160925/theory.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/theory.ipynb b/lesson_notes/lesson_160925/theory.ipynb
+new file mode 100644
+--- /dev/null	(date 1726481388569)
++++ b/lesson_notes/lesson_160925/theory.ipynb	(date 1726481388569)
+@@ -0,0 +1,8 @@
++a = [1,2,3,4,5]
++
++b = a[::]
++
++b = [b[::-2]]
++
++print(a, b) --> [1,2,3,4,5], [5,3,1]
++
+Index: lesson_notes/lesson_160925/1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/1.py b/lesson_notes/lesson_160925/1.py
+new file mode 100644
+--- /dev/null	(date 1726486997610)
++++ b/lesson_notes/lesson_160925/1.py	(date 1726486997610)
+@@ -0,0 +1,9 @@
++a = int(input())
++
++s = ""
++
++while a > 0:
++    s += str(a % 5)
++    a //= 5
++
++print(s[::-1])
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"70f76c6b-71a4-4655-a291-a24e9391285a\" name=\"Changes\" comment=\"commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/18.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/18.xlsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/22.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/22.xlsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/23.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/24.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/24_59848.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/25.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/26.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/homework_tasks/13092024/27881.txt\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hiron2305&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hiron2305/ege&quot;,\r\n    &quot;accountId&quot;: &quot;718d2d1d-dfbf-45e5-96db-bd85d1a628d3&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ls2iHJPAEjNsk9JWdETW35kfYD\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.1.executor\": \"Run\",\r\n    \"Python.12.executor\": \"Run\",\r\n    \"Python.14.executor\": \"Run\",\r\n    \"Python.16.executor\": \"Run\",\r\n    \"Python.17.executor\": \"Run\",\r\n    \"Python.18.executor\": \"Run\",\r\n    \"Python.22.executor\": \"Run\",\r\n    \"Python.22_1.executor\": \"Run\",\r\n    \"Python.23.executor\": \"Run\",\r\n    \"Python.24.executor\": \"Run\",\r\n    \"Python.25.executor\": \"Run\",\r\n    \"Python.26.executor\": \"Run\",\r\n    \"Python.3.executor\": \"Run\",\r\n    \"Python.4.executor\": \"Run\",\r\n    \"Python.5.executor\": \"Run\",\r\n    \"Python.6.executor\": \"Run\",\r\n    \"Python.6_1.executor\": \"Run\",\r\n    \"Python.7.executor\": \"Run\",\r\n    \"Python.9.executor\": \"Run\",\r\n    \"Python.9_1.executor\": \"Run\",\r\n    \"Python.Unnamed (1).executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/mrHir/PycharmProjects/ege\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mrHir\\PycharmProjects\\ege\\homework_tasks\\13092024\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.25\">\r\n    <configuration name=\"22_1\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/homework_tasks/13092024\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/homework_tasks/13092024/22_1.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"23\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/homework_tasks/13092024\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/homework_tasks/13092024/23.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"24\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/homework_tasks/13092024\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/homework_tasks/13092024/24.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"25\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/homework_tasks/13092024\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/homework_tasks/13092024/25.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"26\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/homework_tasks/13092024\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/homework_tasks/13092024/26.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"default\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"ege\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Python.default\" />\r\n      <item itemvalue=\"Python.22_1\" />\r\n      <item itemvalue=\"Python.23\" />\r\n      <item itemvalue=\"Python.24\" />\r\n      <item itemvalue=\"Python.25\" />\r\n      <item itemvalue=\"Python.26\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.25\" />\r\n        <item itemvalue=\"Python.26\" />\r\n        <item itemvalue=\"Python.24\" />\r\n        <item itemvalue=\"Python.23\" />\r\n        <item itemvalue=\"Python.22_1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"70f76c6b-71a4-4655-a291-a24e9391285a\" name=\"Changes\" comment=\"\" />\r\n      <created>1725954590877</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1725954590877</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725955007273</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725955007273</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726080487818</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726080487818</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726145130283</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726145130283</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 62536656967ca78373f55f68309bfba7e5155556)
++++ b/.idea/workspace.xml	(date 1727633779838)
+@@ -5,16 +5,13 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="70f76c6b-71a4-4655-a291-a24e9391285a" name="Changes" comment="commit">
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/18.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/18.xlsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/22.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/22.xlsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/23.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/24.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/24_59848.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/25.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/26.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/homework_tasks/13092024/27881.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/3.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/4.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/5.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/readline.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_160925/theory.ipynb" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -40,8 +37,8 @@
+ }</component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/Hiron2305/ege&quot;,
+-    &quot;accountId&quot;: &quot;718d2d1d-dfbf-45e5-96db-bd85d1a628d3&quot;
++    &quot;url&quot;: &quot;https://github.com/Hiron2305/ege.git&quot;,
++    &quot;accountId&quot;: &quot;ac78d79f-76f0-46b3-8002-ec220ac233d1&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -55,42 +52,44 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.1.executor": "Run",
+-    "Python.12.executor": "Run",
+-    "Python.14.executor": "Run",
+-    "Python.16.executor": "Run",
+-    "Python.17.executor": "Run",
+-    "Python.18.executor": "Run",
+-    "Python.22.executor": "Run",
+-    "Python.22_1.executor": "Run",
+-    "Python.23.executor": "Run",
+-    "Python.24.executor": "Run",
+-    "Python.25.executor": "Run",
+-    "Python.26.executor": "Run",
+-    "Python.3.executor": "Run",
+-    "Python.4.executor": "Run",
+-    "Python.5.executor": "Run",
+-    "Python.6.executor": "Run",
+-    "Python.6_1.executor": "Run",
+-    "Python.7.executor": "Run",
+-    "Python.9.executor": "Run",
+-    "Python.9_1.executor": "Run",
+-    "Python.Unnamed (1).executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "last_opened_file_path": "C:/Users/mrHir/PycharmProjects/ege"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.12.executor&quot;: &quot;Run&quot;,
++    &quot;Python.14.executor&quot;: &quot;Run&quot;,
++    &quot;Python.16.executor&quot;: &quot;Run&quot;,
++    &quot;Python.17.executor&quot;: &quot;Run&quot;,
++    &quot;Python.18.executor&quot;: &quot;Run&quot;,
++    &quot;Python.2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.22.executor&quot;: &quot;Run&quot;,
++    &quot;Python.22_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.23.executor&quot;: &quot;Run&quot;,
++    &quot;Python.24.executor&quot;: &quot;Run&quot;,
++    &quot;Python.25.executor&quot;: &quot;Run&quot;,
++    &quot;Python.26.executor&quot;: &quot;Run&quot;,
++    &quot;Python.3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.5.executor&quot;: &quot;Run&quot;,
++    &quot;Python.6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.6_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.7.executor&quot;: &quot;Run&quot;,
++    &quot;Python.9.executor&quot;: &quot;Run&quot;,
++    &quot;Python.9_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Unnamed (1).executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/root/PycharmProjects/predict_reactions&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\root\PycharmProjects\ege\lesson_notes\lesson_160925" />
+       <recent name="C:\Users\mrHir\PycharmProjects\ege\homework_tasks\13092024" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Python.25">
+-    <configuration name="22_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.4">
++    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="ege" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -99,11 +98,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_notes/lesson_160925" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/22_1.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_notes/lesson_160925/1.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -112,7 +111,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="ege" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -121,11 +120,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_notes/lesson_160925" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/23.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_notes/lesson_160925/2.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -134,7 +133,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="ege" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -147,7 +146,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/24.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/25.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -156,7 +155,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="ege" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -165,11 +164,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_notes" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/25.py" />
++      <option name="SCRIPT_NAME" value="C:\Users\root\PycharmProjects\ege\lesson_notes\lesson_160925\3.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -178,7 +177,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="ege" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -187,11 +186,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/13092024" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_notes/lesson_160925" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/13092024/26.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_notes/lesson_160925/4.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -223,27 +222,27 @@
+       <method v="2" />
+     </configuration>
+     <list>
+-      <item itemvalue="Python.default" />
+-      <item itemvalue="Python.22_1" />
+-      <item itemvalue="Python.23" />
+-      <item itemvalue="Python.24" />
++      <item itemvalue="Python.1" />
+       <item itemvalue="Python.25" />
+-      <item itemvalue="Python.26" />
++      <item itemvalue="Python.2" />
++      <item itemvalue="Python.3" />
++      <item itemvalue="Python.4" />
++      <item itemvalue="Python.default" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Python.4" />
++        <item itemvalue="Python.3" />
++        <item itemvalue="Python.2" />
++        <item itemvalue="Python.1" />
+         <item itemvalue="Python.25" />
+-        <item itemvalue="Python.26" />
+-        <item itemvalue="Python.24" />
+-        <item itemvalue="Python.23" />
+-        <item itemvalue="Python.22_1" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
++        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+       </set>
+     </attachedChunks>
+   </component>
+Index: lesson_notes/lesson_160925/2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_notes/lesson_160925/2.py b/lesson_notes/lesson_160925/2.py
+new file mode 100644
+--- /dev/null	(date 1726486089189)
++++ b/lesson_notes/lesson_160925/2.py	(date 1726486089189)
+@@ -0,0 +1,5 @@
++a = [3,4,5,6,1,2,3]
++
++a.sort()
++a.reverse()
++print(a)
+\ No newline at end of file
+diff --git a/lesson_notes/lesson_160925/5.py b/lesson_notes/lesson_160925/5.py
+new file mode 100644
