@@ -1,11 +1,20 @@
-from itertools import *
-t="13 14 16 25 27 31 34 35 41 43 45 46 47 52 53 54 61 64 67 72 74 76"
-g="AB AG BA BC BD CB CD CE CF CG DB DC DE ED EC EF FE FC FG GF GC GA"
+from itertools import permutations
 
-s=set(g.replace(' ',''))
-for p in permutations(s):
-    nt=t
-    for i,v in enumerate(p):
-        nt=nt.replace(str(i+1),v)
-    if set(g.split())==set(nt.split()):
-        print(p)
+roads = "15 17 18 24 27 28 34 35 37 42 43 47 51 53 56 65 68 71 72 73 74 81 82 86"
+map_data = "АБ АГ АЕ БА БГ БВ ВБ ВД ВИ ГА ГБ ГЕ ДВ ДЖ ЕА ЕГ ЕЖ ЖЕ ЖД ЖИ ИВ ИЖ"
+
+def road(distances, connections):
+    d = set(connections.replace(' ', ''))
+    for arr in permutations(d):
+        t = distances
+        for idx, city in enumerate(arr):
+            t = t.replace(str(idx + 1), city)
+        if set(connections.split()) == set(t.split()):
+            return arr
+
+for length in roads.split():
+    test_roads = roads.replace(length, '').replace(length[::-1], '')
+    result = road(test_roads, map_data)
+    if result:
+        print(length)
+        break
