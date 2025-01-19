@@ -5,12 +5,114 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f76c6b-71a4-4655-a291-a24e9391285a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/homework_tasks/17063430/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/17063430/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/17063430/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/17063430/28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_tasks/17063430/29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/1_3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/17063475/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/10_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/17_19249.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/22_19252.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/3_19235.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_tasks/25073855/9_19241.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/2_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_161224/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_notes/lesson_130125/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preping_for_tests/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preping_for_tests/6/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/17_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/17_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/25.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/25_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/25_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_021224/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_021224/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/4_.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/4_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/solving_2_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/solving_2_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_071024/solving_second_type_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_071024/solving_second_type_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/09.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/09.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_tasks/17063475/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_090924/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_090924/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/8.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_141024/8.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_141024/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_tasks/17063475/16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_tasks/17063475/17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/readline.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/readline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_160925/theory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_160925/theory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_181124/18112024.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_181124/18112024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_181124/27-A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_181124/27-A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_181124/27-B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_181124/27-B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_181124/27_A_solve.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_181124/27_A_solve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_181124/27_B_solve.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_181124/27_B_solve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_251124/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_251124/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_251124/18.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_251124/18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_251124/18_nums.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_251124/18_nums.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_251124/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_251124/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/03.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/03.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/09(1).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/09(1).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/09(1)_2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/09(1)_2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/099.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/099.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/22_14.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/22_14.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/22_22.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/22_22.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/22_26.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/22_26.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/9.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/9.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_notes/lesson_300924/9_58314-5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_notes/24/lesson_300924/9_58314-5.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +164,9 @@
     "Python.15.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17.executor": "Run",
+    "Python.17_2.executor": "Run",
     "Python.18.executor": "Run",
+    "Python.2 (1).executor": "Run",
     "Python.2.executor": "Run",
     "Python.20.executor": "Run",
     "Python.21.executor": "Run",
@@ -74,6 +178,8 @@
     "Python.26.executor": "Run",
     "Python.27.executor": "Run",
     "Python.28.executor": "Run",
+    "Python.29.executor": "Run",
+    "Python.2_new.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
     "Python.5.executor": "Run",
@@ -95,14 +201,102 @@
       <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\17063430" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\25073855" />
+      <recent name="C:\Users\root\PycharmProjects\ege\lesson_notes\24" />
+      <recent name="C:\Users\root\PycharmProjects\ege\lesson_notes\lesson_161224" />
+      <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\17063475" />
       <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\17063430" />
-      <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\16964954" />
-      <recent name="C:\Users\root\PycharmProjects\ege\lesson_notes\lesson_021224" />
-      <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\16483900" />
-      <recent name="C:\Users\root\PycharmProjects\ege\homework_tasks\16455414" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.29">
+  <component name="RunManager" selected="Python.23">
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/25073855" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/25073855/15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/25073855" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/25073855/16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/25073855" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/25073855/17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ege" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/25073855" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/25073855/17_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
@@ -112,99 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/17063430" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/25073855" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/17063430/23.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ege" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/17063430" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/17063430/24.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ege" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/17063430" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/17063430/27.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ege" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/17063430" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/17063430/28.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ege" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_tasks/17063430" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/17063430/29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_tasks/25073855/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,19 +343,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.default" />
-      <item itemvalue="Python.24" />
-      <item itemvalue="Python.27" />
-      <item itemvalue="Python.28" />
-      <item itemvalue="Python.29" />
+      <item itemvalue="Python.17" />
+      <item itemvalue="Python.17_2" />
       <item itemvalue="Python.23" />
+      <item itemvalue="Python.15" />
+      <item itemvalue="Python.16" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.29" />
-        <item itemvalue="Python.28" />
-        <item itemvalue="Python.27" />
-        <item itemvalue="Python.24" />
         <item itemvalue="Python.23" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.17_2" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.15" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733649213131</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1733734582565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733734582565</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
