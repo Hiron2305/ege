@@ -17,4 +17,4 @@ for x in range(-20, 20):
         tr.goto(x * step, y * step)
         tr.dot()
 tr.update()
-tr.mainloop()
+tr.mainloop() 
