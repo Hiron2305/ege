@@ -1,4 +1,3 @@
-#(x → (y → z)) ∧ (y → (z ≡ ¬ w))
 print("x y z w")
 
 for x in 0,1:
