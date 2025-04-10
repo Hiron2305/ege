@@ -17,5 +17,4 @@ with open("17_5.txt") as file:
                 cb = cb + 1
 
 
-
 print((ca * (ca - 1))//2 + (cb * (cb - 1))//2 + (ca * (len(numbers_a) - ca)) + (cb * (len(numbers_b) - cb)))
